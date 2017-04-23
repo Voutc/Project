@@ -11,6 +11,7 @@ import Items.Item;
 import Monsters.Monster;
 
 
+// simple comment
 public class Character {
 
     private int health = 10;
